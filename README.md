@@ -1,4 +1,5 @@
-Elevator-Script
+Elevator script for FiveM
+
 Dependency
 ox_lib 3.0.0 or above
 
